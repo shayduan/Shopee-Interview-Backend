@@ -1,6 +1,8 @@
-# Shopee Interview
+# Shopee Interview (BE)
 
-本仓库一切内容仅为本人2020年春招Shopee笔/面试经验分享记录，如有侵权等问题，联系本人后即刻删除。
+本仓库一切内容仅为本人2020年春招Shopee笔/面试经验分享记录，最终解释权归Github用户Tscharrl所有。
+
+本人笔面试使用语言为C++，所以自己整理的笔面经中均不涉及Java和Python的基础知识。
 
 ## 笔试
 
@@ -19,13 +21,18 @@
 
 ### 一面
 
-[牛客网面经](https://www.nowcoder.com/discuss/399675)
+[本人一面面经](https://www.nowcoder.com/discuss/399675)
+
+准备面试时，我将牛客网上的一面面经进行了粗略分类整理，详见：[Shopee一面面经整理](Shopee面经整理/)
+
+并利用网络资源给出了其中部分问题的答案，详见：[Shopee一面面经答案](Shopee面经整理/答案/)
 
 
 ### 二面
 
-[牛客网面经（基本无参考价值）](https://www.nowcoder.com/discuss/404912)
+[本人二面面经（基本无参考价值）](https://www.nowcoder.com/discuss/404912)
 
+牛客网二面面经整理详见：[Shopee二面面经整理](Shopee面经整理/Shopee二面面经整理/)
 
 ### hr面
 
