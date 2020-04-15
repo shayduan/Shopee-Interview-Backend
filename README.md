@@ -4,7 +4,8 @@
 
 ## 笔试
 
-笔试时间为03.28，牛客网考试，三道编程题，均为Leetcode中等难度原题，考试过程中可以切本地IDE.
+笔试时间为03.28，牛客网考试。三道编程题，均为Leetcode中等难度原题，考试过程中可以切本地IDE。
+
 三道题分别为：
 - [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - [全排列](https://leetcode-cn.com/problems/permutations/)
